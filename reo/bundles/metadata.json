@@ -12,7 +12,7 @@
                                                    },
                                                    {
                                                        "path":  "/reo/bundles/generated/qol-1.21.1-fabric.mrpack",
-                                                       "sha1":  "362765865c8396e8aa9932ac1a2eda9dcc3ecf02"
+                                                       "sha1":  "aed7b2ceec7bc0c2eef9c1b880d5772a2a9217cc"
                                                    },
                                                    {
                                                        "path":  "/reo/bundles/generated/utility-1.21.1-fabric.mrpack",
@@ -32,7 +32,7 @@
                                                     },
                                                     {
                                                         "path":  "/reo/bundles/generated/qol-1.21.10-fabric.mrpack",
-                                                        "sha1":  "2f6c73faac35ead53a19b06892297c0257bbe6fd"
+                                                        "sha1":  "b9bd9c08118c7262d94107adb87807969e8127e7"
                                                     },
                                                     {
                                                         "path":  "/reo/bundles/generated/utility-1.21.10-fabric.mrpack",
@@ -52,7 +52,7 @@
                                                     },
                                                     {
                                                         "path":  "/reo/bundles/generated/qol-1.21.11-fabric.mrpack",
-                                                        "sha1":  "98bee4689f1bb5eac7c5dcb4f12c69d4bcf34019"
+                                                        "sha1":  "860bdf14768c15511a7e0136b5a3ec614cea9773"
                                                     },
                                                     {
                                                         "path":  "/reo/bundles/generated/utility-1.21.11-fabric.mrpack",
@@ -72,7 +72,7 @@
                                                    },
                                                    {
                                                        "path":  "/reo/bundles/generated/qol-1.8.9-ornithe.mrpack",
-                                                       "sha1":  "a8c033a633140e7a4bd687ac356933fa921e3738"
+                                                       "sha1":  "c3cb33051b5b2bff38a017692078ce3398ca4889"
                                                    },
                                                    {
                                                        "path":  "/reo/bundles/generated/utility-1.8.9-ornithe.mrpack",
@@ -92,7 +92,7 @@
                                                    },
                                                    {
                                                        "path":  "/reo/bundles/generated/qol-26.1.2-fabric.mrpack",
-                                                       "sha1":  "31bbaa31962778e76eded0be29bb601b38ec2512"
+                                                       "sha1":  "7be5da535160e086d69458d921f8d85be177b085"
                                                    },
                                                    {
                                                        "path":  "/reo/bundles/generated/skyblock-26.1.2-fabric.mrpack",
@@ -116,7 +116,7 @@
                                                  },
                                                  {
                                                      "path":  "/reo/bundles/generated/qol-26.2-fabric.mrpack",
-                                                     "sha1":  "3d60f4ecda8b81e8f269f6b893d2f2aba2e22155"
+                                                     "sha1":  "d141f44a1e663e9160a2816d69e2e85a581f0a1a"
                                                  },
                                                  {
                                                      "path":  "/reo/bundles/generated/skyblock-26.2-fabric.mrpack",
@@ -140,7 +140,7 @@
                                                  },
                                                  {
                                                      "path":  "/reo/bundles/generated/qol-26.3-fabric.mrpack",
-                                                     "sha1":  "54990991ddf5226750d71729a18ec4492ad56d42"
+                                                     "sha1":  "739f32c298853945af1277aac8fd0a4a96c5ce32"
                                                  },
                                                  {
                                                      "path":  "/reo/bundles/generated/skyblock-26.3-fabric.mrpack",
